@@ -1,0 +1,43 @@
+html {
+    font-size: 10px;
+    font-family: 'Muli', sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+p, li {
+    font-size: 16px;    
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+a {
+    color: red;
+}
+
+html {
+    background-color: #d7e8aa;
+}
+
+body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #ace3db;
+    padding: 0 20px 20px 20px;
+    border: 2px solid black;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;    
+    color: #216097;
+    /*text-shadow: 3px 3px 1px black;*/
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
